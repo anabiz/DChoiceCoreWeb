@@ -22,8 +22,8 @@ const CareerHero = () => {
               Build Your Career in <span className="text-primary">Technology Innovation</span>
             </h1>
             <p className="text-lg text-body-color dark:text-body-color-dark mb-8 leading-relaxed">
-              Join a team that's transforming businesses through cutting-edge technology solutions. 
-              We're looking for passionate individuals who want to make an impact in AI, cloud computing, 
+              Join a team that&apos;s transforming businesses through cutting-edge technology solutions. 
+              We&apos;re looking for passionate individuals who want to make an impact in AI, cloud computing, 
               cybersecurity, and digital transformation.
             </p>
             <div className="flex flex-wrap gap-4">

@@ -66,7 +66,7 @@ const Benefits = () => {
             Why Join Our Team?
           </h2>
           <p className="text-lg text-body-color dark:text-body-color-dark max-w-2xl mx-auto">
-            We invest in our team's growth and well-being with comprehensive benefits 
+            We invest in our team&apos;s growth and well-being with comprehensive benefits 
             and a supportive work environment.
           </p>
         </div>

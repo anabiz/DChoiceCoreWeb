@@ -40,7 +40,7 @@ const HiringProcess = () => {
             Our Hiring Process
           </h2>
           <p className="text-lg text-body-color dark:text-body-color-dark max-w-2xl mx-auto">
-            We've designed our process to be transparent, efficient, and respectful of your time.
+            We&apos;ve designed our process to be transparent, efficient, and respectful of your time.
           </p>
         </div>
 

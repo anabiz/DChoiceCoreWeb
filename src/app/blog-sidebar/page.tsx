@@ -106,7 +106,7 @@ const BlogSidebarPage = () => {
                 </div>
                 <div>
                   <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Artificial intelligence is no longer a futuristic concept—it's transforming how enterprises operate today. From predictive analytics to automated decision-making systems, AI is revolutionizing business processes across industries.
+                    Artificial intelligence is no longer a futuristic concept—it&apos;s transforming how enterprises operate today. From predictive analytics to automated decision-making systems, AI is revolutionizing business processes across industries.
                   </p>
                   <div className="mb-10 w-full overflow-hidden rounded-sm">
                     <div className="relative aspect-97/60 w-full sm:aspect-97/44">
@@ -159,7 +159,7 @@ const BlogSidebarPage = () => {
                   </ul>
                   <div className="bg-primary/10 relative z-10 mb-10 overflow-hidden rounded-md p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-body-color text-center text-base font-medium italic">
-                      "The most successful AI implementations are those that augment human capabilities rather than replace them. The future of enterprise AI lies in collaborative intelligence systems where humans and machines work together to achieve better outcomes."
+                      {`"The most successful AI implementations are those that augment human capabilities rather than replace them. The future of enterprise AI lies in collaborative intelligence systems where humans and machines work together to achieve better outcomes."`}
                     </p>
                     <span className="absolute top-0 left-0 z-[-1]">
                       <svg
