@@ -10,7 +10,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: <FaCode size={40} className="fill-current" />,
     title: "Software Engineering",
-    paragraph: "Custom software solutions tailored to your business needs with modern technologies and agile methodologies.",
+    paragraph: "AI-powered custom software solutions tailored to your business needs — built with modern technologies, agile methodologies, and delivered in as little as two weeks.",
   },
   {
     id: 2,
