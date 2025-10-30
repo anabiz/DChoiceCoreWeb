@@ -11,7 +11,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "DChoiceCore | Innovative Technology Solutions for Enterprises",
+  title: "DChoiceCore | Innovative AI Technology Solutions for Enterprises",
   description: "Comprehensive technology services including AI & Data Science, Cloud Infrastructure, Cybersecurity, Software Engineering, B2B Integrations, IoT Solutions, and Digital Transformation.",
   keywords: "technology solutions, AI, cloud computing, cybersecurity, software development, digital transformation, enterprise technology",
 };
@@ -23,7 +23,7 @@ export default function Home() {
       <Hero />
       <Features />
       <Video />
-      <Brands />
+      {/* <Brands /> */}
       <AboutSectionOne />
       <AboutSectionTwo />
       <Testimonials />
